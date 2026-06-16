@@ -1,0 +1,7 @@
+{
+  "name": "example-package",
+  "author": "las-r",
+  "version": "0.0.1",
+  "dependencies": [],
+  "src": "src"
+}
