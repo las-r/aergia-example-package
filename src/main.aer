@@ -1,0 +1,10 @@
+# This is the main file. Your project source MUST have a 'main.aer' file.
+
+# Example variables
+= hello "world"
+= num 123
+
+# Example function
+{greet :name:
+    > "Hello, %name%!"
+}
